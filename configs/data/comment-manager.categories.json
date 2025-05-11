@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "681aaabe649b23711e816983"
+  },
+  "name": "Default",
+  "description": "Default category",
+  "Publication": [],
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fe16f339432c2f3f2ac65"
+  },
+  "name": "Taller",
+  "description": "Programación",
+  "Publication": [],
+  "status": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681fe17c339432c2f3f2ac67"
+  },
+  "name": "Tecnología",
+  "description": "Teoría y fundamentos",
+  "Publication": [],
+  "status": true,
+  "__v": 0
+}]

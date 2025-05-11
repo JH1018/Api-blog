@@ -1,0 +1,255 @@
+[{
+  "_id": {
+    "$oid": "682122ac0e61b730bb10bda9"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Excelente taller, me ayudó a entender cómo funcionan las pilas con ejemplos claros.\"",
+  "publication": {
+    "$oid": "682122470e61b730bb10bd81"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:20:28.002Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682122b70e61b730bb10bdb1"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"¿Podrían subir los ejercicios resueltos? Algunos me costaron bastante.\"",
+  "publication": {
+    "$oid": "682122470e61b730bb10bd81"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:20:39.752Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124030e61b730bb10bdd1"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Muy útil, me gustaría ver uno similar pero sobre árboles binarios.\"",
+  "publication": {
+    "$oid": "682122470e61b730bb10bd81"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:26:11.692Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6821240f0e61b730bb10bdde"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Interesante introducción, pero me gustaría un ejemplo más práctico.\"",
+  "publication": {
+    "$oid": "682122550e61b730bb10bd89"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:26:23.672Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124140e61b730bb10bde6"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Gracias por compartir, no sabía cómo funcionaban los modelos supervisados.\"",
+  "publication": {
+    "$oid": "682122550e61b730bb10bd89"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:26:28.121Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6821241c0e61b730bb10bdee"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Buen artículo, ¿qué lenguaje recomiendas para empezar con ML?\"",
+  "publication": {
+    "$oid": "682122550e61b730bb10bd89"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:26:36.867Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124650e61b730bb10bdfb"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Me encantó conectar el sensor ultrasónico, fue muy interactivo.\"",
+  "publication": {
+    "$oid": "682122640e61b730bb10bd91"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:27:49.179Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "6821246b0e61b730bb10be03"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"¿Alguien logró hacer funcionar el sensor de temperatura? No me daba lectura.\"",
+  "publication": {
+    "$oid": "682122640e61b730bb10bd91"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:27:55.358Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124700e61b730bb10be0b"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Excelente guía, deberían hacer más talleres así.\"",
+  "publication": {
+    "$oid": "682122640e61b730bb10bd91"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:00.191Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124800e61b730bb10be18"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Finalmente entendí qué significa una ruta y un método HTTP. ¡Gracias!\"",
+  "publication": {
+    "$oid": "682122780e61b730bb10bd99"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:16.169Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124830e61b730bb10be20"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Buen resumen, aunque faltó hablar un poco de autenticación con tokens.\"",
+  "publication": {
+    "$oid": "682122780e61b730bb10bd99"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:19.927Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124870e61b730bb10be28"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"¿Pueden subir un ejemplo de cómo consumir una API desde React?\"",
+  "publication": {
+    "$oid": "682122780e61b730bb10bd99"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:23.690Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124900e61b730bb10be35"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Muy dinámico el taller, aprendí a usar useState y useEffect correctamente.\"",
+  "publication": {
+    "$oid": "682122850e61b730bb10bda1"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:32.456Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124940e61b730bb10be3d"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Me costó un poco entender el ruteo, ¿pueden hacer un repaso?\"",
+  "publication": {
+    "$oid": "682122850e61b730bb10bda1"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:36.702Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124980e61b730bb10be45"
+  },
+  "author": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "content": "\"Perfecto para principiantes, espero el siguiente sea sobre context API.\"",
+  "publication": {
+    "$oid": "682122850e61b730bb10bda1"
+  },
+  "guestOwner": "",
+  "date": {
+    "$date": "2025-05-11T22:28:40.923Z"
+  },
+  "status": true
+}]

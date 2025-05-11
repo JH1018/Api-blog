@@ -1,0 +1,149 @@
+[{
+  "_id": {
+    "$oid": "681aaabe649b23711e816987"
+  },
+  "name": "Admin",
+  "surname": "Admin",
+  "userName": "admin",
+  "email": "adminexample@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$Ea1nrnHpShltfAl5KFUYYw$UY7MmK2HdgVpNWoH1QJ2G47tBD6RhEo6PQ7pq0rfTsE",
+  "phone": "12345678",
+  "publications": [],
+  "comments": [],
+  "role": "ADMIN_ROLE",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "name": "Javier",
+  "surname": "Herrera",
+  "userName": "Zodiacal1",
+  "email": "javierherrera5513@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$ygZLjlu4xdGWHjHse7OIyw$SMgLqkj+oaquWqUIwsmF7NFXK37lQimUxfmcaCMfgF0",
+  "phone": "55885335",
+  "publications": [
+    {
+      "$oid": "681d6c8fe4e94e46fe376678"
+    },
+    {
+      "$oid": "681fc9deae518df3775f8585"
+    },
+    {
+      "$oid": "681fca24ae518df3775f858f"
+    },
+    {
+      "$oid": "681fd29dae518df3775f85e6"
+    },
+    {
+      "$oid": "681fd8eea8bd1414b99d250e"
+    },
+    {
+      "$oid": "681fdf6d339432c2f3f2ac52"
+    },
+    {
+      "$oid": "681fe0f9339432c2f3f2ac5a"
+    },
+    {
+      "$oid": "681fe1a1339432c2f3f2ac6e"
+    },
+    {
+      "$oid": "681fe1d4339432c2f3f2ac78"
+    },
+    {
+      "$oid": "682122470e61b730bb10bd81"
+    },
+    {
+      "$oid": "682122550e61b730bb10bd89"
+    },
+    {
+      "$oid": "682122640e61b730bb10bd91"
+    },
+    {
+      "$oid": "682122780e61b730bb10bd99"
+    },
+    {
+      "$oid": "682122850e61b730bb10bda1"
+    }
+  ],
+  "comments": [
+    {
+      "$oid": "681fd7d8bf67dec03c335794"
+    },
+    {
+      "$oid": "681fdd446974a8341880d27c"
+    },
+    {
+      "$oid": "6821091f94c9ead9b59fcd84"
+    },
+    {
+      "$oid": "6821098a0e61b730bb10bd5e"
+    },
+    {
+      "$oid": "682121a60e61b730bb10bd74"
+    },
+    {
+      "$oid": "682122ac0e61b730bb10bda9"
+    },
+    {
+      "$oid": "682122b70e61b730bb10bdb1"
+    },
+    {
+      "$oid": "682124030e61b730bb10bdd1"
+    },
+    {
+      "$oid": "6821240f0e61b730bb10bdde"
+    },
+    {
+      "$oid": "682124140e61b730bb10bde6"
+    },
+    {
+      "$oid": "6821241c0e61b730bb10bdee"
+    },
+    {
+      "$oid": "682124650e61b730bb10bdfb"
+    },
+    {
+      "$oid": "6821246b0e61b730bb10be03"
+    },
+    {
+      "$oid": "682124700e61b730bb10be0b"
+    },
+    {
+      "$oid": "682124800e61b730bb10be18"
+    },
+    {
+      "$oid": "682124830e61b730bb10be20"
+    },
+    {
+      "$oid": "682124870e61b730bb10be28"
+    },
+    {
+      "$oid": "682124900e61b730bb10be35"
+    },
+    {
+      "$oid": "682124940e61b730bb10be3d"
+    },
+    {
+      "$oid": "682124980e61b730bb10be45"
+    }
+  ],
+  "role": "ADMIN_ROLE",
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682124e80e61b730bb10be4f"
+  },
+  "name": "Rodrigo",
+  "surname": "Herrera",
+  "userName": "toto",
+  "email": "rodrigoherrera@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$LGDezUoyQ2Yc8tllpF8tAQ$PkrAkcXL7nhdhOgBeV1eOwYBxGgrm/GY9uKOuavxNU8",
+  "phone": "12345678",
+  "publications": [],
+  "comments": [],
+  "role": "USER_ROLE",
+  "status": true
+}]

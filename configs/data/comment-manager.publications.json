@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "682122470e61b730bb10bd81"
+  },
+  "title": "Taller de estructuras de datos en Java",
+  "category": {
+    "$oid": "681fe16f339432c2f3f2ac65"
+  },
+  "categoryName": "Taller",
+  "publicationContent": "En este taller abordamos listas enlazadas, pilas y colas con ejemplos prácticos y ejercicios para resolver en clase.",
+  "owner": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "comments": [
+    {
+      "$oid": "682122ac0e61b730bb10bda9"
+    },
+    {
+      "$oid": "682122b70e61b730bb10bdb1"
+    },
+    {
+      "$oid": "682124030e61b730bb10bdd1"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T20:33:14.244Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682122550e61b730bb10bd89"
+  },
+  "title": "¿Cómo funciona el aprendizaje automático?",
+  "category": {
+    "$oid": "681fe17c339432c2f3f2ac67"
+  },
+  "categoryName": "Tecnología",
+  "publicationContent": "Descubre los principios básicos del machine learning y cómo se entrenan los modelos con datos reales.",
+  "owner": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "comments": [
+    {
+      "$oid": "6821240f0e61b730bb10bdde"
+    },
+    {
+      "$oid": "682124140e61b730bb10bde6"
+    },
+    {
+      "$oid": "6821241c0e61b730bb10bdee"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T20:33:14.244Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682122640e61b730bb10bd91"
+  },
+  "title": " Taller de programación con Arduino",
+  "category": {
+    "$oid": "681fe16f339432c2f3f2ac65"
+  },
+  "categoryName": "Taller",
+  "publicationContent": "Conectamos sensores y actuadores con código en C++ para desarrollar prototipos interactivos.",
+  "owner": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "comments": [
+    {
+      "$oid": "682124650e61b730bb10bdfb"
+    },
+    {
+      "$oid": "6821246b0e61b730bb10be03"
+    },
+    {
+      "$oid": "682124700e61b730bb10be0b"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T20:33:14.244Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682122780e61b730bb10bd99"
+  },
+  "title": " ¿Qué es una API REST y cómo se usa?",
+  "category": {
+    "$oid": "681fe17c339432c2f3f2ac67"
+  },
+  "categoryName": "Tecnología",
+  "publicationContent": "Una API REST permite comunicar dos aplicaciones mediante HTTP. Aprende su estructura y cómo consumirla desde el frontend.",
+  "owner": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "comments": [
+    {
+      "$oid": "682124800e61b730bb10be18"
+    },
+    {
+      "$oid": "682124830e61b730bb10be20"
+    },
+    {
+      "$oid": "682124870e61b730bb10be28"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T20:33:14.244Z"
+  },
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "682122850e61b730bb10bda1"
+  },
+  "title": "Taller práctico de ReactJS",
+  "category": {
+    "$oid": "681fe16f339432c2f3f2ac65"
+  },
+  "categoryName": "Taller",
+  "publicationContent": "Creamos una SPA usando componentes funcionales, hooks y ruteo. Ideal para afianzar conceptos básicos de React.",
+  "owner": {
+    "$oid": "681d66a2e4e94e46fe37663d"
+  },
+  "comments": [
+    {
+      "$oid": "682124900e61b730bb10be35"
+    },
+    {
+      "$oid": "682124940e61b730bb10be3d"
+    },
+    {
+      "$oid": "682124980e61b730bb10be45"
+    }
+  ],
+  "date": {
+    "$date": "2025-05-11T20:33:14.244Z"
+  },
+  "status": true
+}]
